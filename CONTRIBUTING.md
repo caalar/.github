@@ -1,6 +1,6 @@
 # How to Contribute
 
-First of all, thanks for the support.
+First of all, thanks for your participation.
 
 The following guideline will help you with creating good issues or pull requests as well as proposing improvements to existing functionality. These instructions are meant to be collaborative so please feel free to create a pull request if you see room for improvement.
 
