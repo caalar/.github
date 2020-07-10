@@ -42,4 +42,4 @@ $ git commit -m "A short description of the commit
 > A paragraph explaining the change along with its impact"
 ```
              
-Additionaly, please refer to the Code of Conduct
+Additionaly, please refer to the **[Code of Conduct](https://github.com/caalar/.github/blob/master/CODE_OF_CONDUCT.md)**
