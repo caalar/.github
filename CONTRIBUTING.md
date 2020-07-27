@@ -2,7 +2,7 @@
 
 First of all, thanks for your participation.
 
-The following guideline will help you with creating good issues or pull requests as well as proposing improvements to existing functionality. These instructions are meant to be collaborative so please feel free to create a pull request if you see room for improvement.
+The following guideline will help you with creating good issues or pull requests as well as proposing improvements to existing functionality. These rules are by no means comprehensive so please feel free to create a pull request if you see room for improvement. While the following guidelines are not strictly enforced, if everyone were to adhere to them, I feel it would create a much more productive environment for all.
 
 ## Steps for creating good issues or pull requests
 
